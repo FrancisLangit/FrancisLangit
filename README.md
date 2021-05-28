@@ -1,6 +1,6 @@
 # Hi, I'm Francis!
 
-![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=tokyonight)
+![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=tokyonight&hide=contribs)
 
 🔭 I’m currently working on web-development with `Python` and `JavaScript`.
 
