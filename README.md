@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Francis.
 
-<!--
-**FrancisLangit/FrancisLangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+### Who are you?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web-development with `Python` and `JavaScript`.
+- 🌱 I’m currently learning the utilization of a `MERN` stack.
+- 👯 I’m looking to collaborate on open source web-development and Python projects.
+- 💬 Ask me about NBA basketball, Silicon Valley, or Brandon Sanderson.
+- 📫 How to reach me: francis.villanueva.langit@gmail.com.
+
+### Can you show me some of the things you've made so far?
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisLangit&repo=cypher)](https://github.com/FrancisLangit/cypher)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisLangit&repo=etch-a-sketch)](https://github.com/FrancisLangit/etch-a-sketch)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisLangit&repo=calculator)](https://github.com/FrancisLangit/calculator)
+
+---
+
+*“I write these words in steel, for anything not set in metal cannot be trusted.”*  
+
+―  Brandon Sanderson, The Well of Ascension
