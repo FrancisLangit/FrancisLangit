@@ -2,6 +2,9 @@
 
 ![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=tokyonight&hide=contribs)
 
+
+👔 I’m an Enterprise Partner Junior Associate Intern at [Kalibrr](https://www.kalibrr.com/).
+
 🔭 I’m currently working on web-development with `Python` and `JavaScript`.
 
 🌱 I’m currently learning the utilization of a `MERN` stack.
