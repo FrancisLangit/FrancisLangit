@@ -1,15 +1,11 @@
 # Hi, I'm Francis!
 
-![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=tokyonight&hide=contribs)
+![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=buefy&hide=contribs)
 
 
-👔 I’m an Enterprise Partner Junior Associate Intern at [Kalibrr](https://www.kalibrr.com/).
+👔 I’m interning at [Dashlabs.ai (YC W21)](https://www.dashlabs.ai/).
 
-🔭 I’m currently working on web-development with `Python` and `JavaScript`.
-
-🌱 I’m currently learning the utilization of a `MERN` stack.
-
-👯 I’m looking to collaborate on open source web-development and Python projects.
+👯 I’m looking to collaborate on open source projects.
 
 💬 Ask me about NBA basketball, Silicon Valley, or Brandon Sanderson.
 
@@ -17,6 +13,6 @@
 
 ---
 
-*“I write these words in steel, for anything not set in metal cannot be trusted.”*  
+*“Life before death, strength before weakness, journey before destination.”*  
 
-―  Brandon Sanderson, The Well of Ascension
+―  Brandon Sanderson, The Way of Kings
