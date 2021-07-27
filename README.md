@@ -1,6 +1,6 @@
 # Hi, I'm Francis!
 
-![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=buefy&hide=contribs)
+![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=default&hide=contribs)
 
 
 👔 I’m interning at [Dashlabs.ai (YC W21)](https://www.dashlabs.ai/).
