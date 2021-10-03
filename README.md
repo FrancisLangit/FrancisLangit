@@ -2,14 +2,11 @@
 
 ![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=default&hide=contribs)
 
+🤝 I’m looking to collaborate on open source projects.
 
-👔 I’m interning at [Dashlabs.ai (YC W21)](https://www.dashlabs.ai/).
+💬 I love conversations about technology, startups, and video games.
 
-👯 I’m looking to collaborate on open source projects.
-
-💬 Ask me about NBA basketball, Silicon Valley, or Brandon Sanderson.
-
-📫 How to reach me: francis.villanueva.langit@gmail.com.
+📫 Reach out to me through francis.villanueva.langit@gmail.com.
 
 ---
 
