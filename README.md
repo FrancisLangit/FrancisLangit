@@ -1,6 +1,6 @@
 # Hi, I'm Francis!
 
-![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=default&hide=contribs)
+![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=graywhite&hide=contribs)
 
 🤝 I’m looking to collaborate on open source projects.
 
