@@ -2,11 +2,11 @@
 
 ![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLangit&show_icons=true&theme=graywhite&hide=contribs)
 
-🤝 I’m looking to collaborate on open source projects.
+▪️ I’m looking to collaborate on open source projects.
 
-💬 I love conversations about technology, startups, and video games.
+▪️ I love conversations about technology, startups, and video games.
 
-📫 Reach out to me through francis.villanueva.langit@gmail.com.
+▪️ Reach out to me through francis.villanueva.langit@gmail.com.
 
 ---
 
