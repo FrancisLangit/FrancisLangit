@@ -4,12 +4,10 @@
 
 ▪️ I’m looking to collaborate on open source projects.
 
-▪️ I love conversations about technology, startups, and video games.
-
 ▪️ Reach out to me through francis.villanueva.langit@gmail.com.
 
 ---
 
-*“Life before death, strength before weakness, journey before destination.”*  
+*“Get past the past.”* 
 
-―  Brandon Sanderson, The Way of Kings
+― [Kanye West • April, 2018](https://twitter.com/kanyewest/status/987728334971850753?lang=en)
