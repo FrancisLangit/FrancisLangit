@@ -1,5 +1,11 @@
+import { Project } from './components/Project/Project';
+
 const App = () => {
-  return <div>Hello, world!</div>;
+  return (
+    <div>
+      <Project />
+    </div>
+  );
 };
 
 export default App;
