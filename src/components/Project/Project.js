@@ -1,7 +1,9 @@
+import styles from './Project.module.css';
+
 const Project = ({ banner, name, description, technologies, source, demo }) => {
   return (
     <div>
-      <img src={banner} alt={name + 'banner'} />
+      <img src={banner} alt={name + ' banner'} className={styles.banner} />
       <div>{name}</div>
       <div>{description}</div>
       {technologies.map((technology) => (
