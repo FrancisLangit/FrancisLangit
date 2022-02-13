@@ -5,7 +5,7 @@ const Project = ({ banner, name, description, technologies, source, demo }) => {
       <div>{name}</div>
       <div>{description}</div>
       {technologies.map((technology) => (
-        <div>{technology}</div>
+        <span>{technology} | </span>
       ))}
       <a href={source}>
         <div>Source Code</div>

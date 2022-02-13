@@ -18,6 +18,25 @@ const data = [
     technologies: ['Python', 'Pygame'],
     source: 'https://github.com/FrancisLangit/bolan',
   },
+  {
+    banner:
+      'https://repository-images.githubusercontent.com/445789507/f68c9d25-a912-4a31-a5a0-ed4b12d99ed5',
+    name: 'Resumake',
+    description: 'Straightforward resume-building interface built on React.',
+    technologies: ['HTML', 'CSS', 'SASS', 'JavaScript', 'React'],
+    source: 'https://github.com/FrancisLangit/resumake',
+    demo: 'https://francislangit.github.io/resumake/',
+  },
+  {
+    banner:
+      'https://repository-images.githubusercontent.com/331223602/57679980-63e5-11eb-9532-42616c0b5dcd',
+    name: 'Cypher',
+    description:
+      'A Django web application where users can translate text to and from Binary, a Caesar Cipher, Morse Code, and Pig Latin.',
+    technologies: ['HTML', 'CSS', 'Python', 'Django', 'Bootstrap'],
+    source: 'https://github.com/FrancisLangit/cypher',
+    demo: 'https://cypher-web-app.herokuapp.com/',
+  },
 ];
 
 export { data };
