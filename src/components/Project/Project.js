@@ -1,11 +1,4 @@
-const Project = ({
-  banner,
-  name,
-  description,
-  technologies,
-  repository,
-  demo,
-}) => {
+const Project = ({ banner, name, description, technologies, source, demo }) => {
   return (
     <div>
       <img src={banner} alt={name + 'banner'} />
@@ -14,12 +7,14 @@ const Project = ({
       {technologies.map((technology) => (
         <div>{technology}</div>
       ))}
-      <a href={repository}>
+      <a href={source}>
         <div>Source Code</div>
       </a>
-      <a href={demo}>
-        <div>Demo</div>
-      </a>
+      {demo ? (
+        <a href={demo}>
+          <div>Demo</div>
+        </a>
+      ) : null}
     </div>
   );
 };
