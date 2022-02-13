@@ -9,7 +9,7 @@ const App = () => {
           banner={project.banner}
           name={project.name}
           description={project.description}
-          technologies={project.technologies}
+          tags={project.tags}
           source={project.source}
           demo={project.demo}
         />
