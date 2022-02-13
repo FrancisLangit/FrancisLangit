@@ -1,4 +1,3 @@
-import { nanoid } from 'nanoid';
 import { useState } from 'react';
 
 import { data } from './data.js';
@@ -14,7 +13,7 @@ const App = () => {
       <Search value={search} setValue={setSearch} />
       {data.map((project) => (
         <Project
-          // key={nanoid()}
+          key={project.id}
           banner={project.banner}
           name={project.name}
           description={project.description}
