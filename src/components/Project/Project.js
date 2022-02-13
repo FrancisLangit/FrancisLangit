@@ -1,3 +1,4 @@
+import { nanoid } from 'nanoid';
 import styles from './Project.module.css';
 
 const Project = ({ banner, name, description, tags, source, demo }) => {
@@ -7,7 +8,7 @@ const Project = ({ banner, name, description, tags, source, demo }) => {
       <div>{name}</div>
       <div>{description}</div>
       {tags.map((tag) => (
-        <span>{tag} | </span>
+        <span key={nanoid()}>{tag} | </span>
       ))}
       <a href={source}>
         <div>Source Code</div>
