@@ -19,10 +19,6 @@ const Header = () => {
       <div className={style.header}>Francis Langit</div>
       <Link link="https://www.linkedin.com/in/francis-langit" text="LinkedIn" />
       <Link link="https://github.com/FrancisLangit/" text="GitHub" />
-      <Link
-        link="https://docs.google.com/document/d/10_670hzfWdriOqLbOvX2ZBGpbhxrJlTf6ilwj6Uc74k/export?format=pdf"
-        text="Resume"
-      />
       <Link link="mailto:francis.villanueva.langit@gmail.com" text="Email" />
     </div>
   );
