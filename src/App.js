@@ -24,11 +24,7 @@ const App = () => {
             <Project
               key={project.id}
               banner={project.banner}
-              name={project.name}
-              description={project.description}
-              tags={project.tags}
-              source={project.source}
-              demo={project.demo}
+              link={project.link}
             />
           ))}
       </div>
