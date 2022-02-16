@@ -13,8 +13,8 @@ const App = () => {
   return (
     <div>
       <Header />
-      {/* <Search value={search} setValue={setSearch} /> */}
-      {/* <div className={style.projects}>
+      <Search value={search} setValue={setSearch} />
+      <div className={style.projects}>
         {data
           .filter((project) => {
             const filter = `${project.tags.toString()},${project.name}`;
@@ -27,7 +27,7 @@ const App = () => {
               link={project.link}
             />
           ))}
-      </div> */}
+      </div>
     </div>
   );
 };
