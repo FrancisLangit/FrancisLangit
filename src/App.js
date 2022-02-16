@@ -12,8 +12,8 @@ const App = () => {
 
   return (
     <div>
-      <Header />
-      <Search value={search} setValue={setSearch} />
+      {/* <Header /> */}
+      {/* <Search value={search} setValue={setSearch} /> */}
       <div className={style.projects}>
         {data
           .filter((project) => {
