@@ -16,7 +16,7 @@ const Link = ({ link, text }) => {
 const Header = () => {
   return (
     <div className={style.container}>
-      <div className={style.header}>Hi, I'm Francis!</div>
+      <div className={style.header}>Francis Langit</div>
       <Link link="https://www.linkedin.com/in/francis-langit" text="LinkedIn" />
       <Link link="https://github.com/FrancisLangit/" text="GitHub" />
       <Link

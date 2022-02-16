@@ -23,6 +23,7 @@ const App = () => {
           .map((project) => (
             <Project
               key={project.id}
+              name={project.name}
               banner={project.banner}
               link={project.link}
             />
