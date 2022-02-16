@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  margin: 1em auto 3em auto;
+}
+
+.header {
+  font-size: 6em;
+  font-weight: 800;
+}
+
+.link {
+  color: black;
+  font-size: 1.5em;
+  font-style: italic;
+  font-weight: 300;
+  margin: 0.5em;
+  padding: 0.25em;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.link:hover {
+  padding: 1em;
+}
