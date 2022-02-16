@@ -1,10 +1,10 @@
 import { nanoid } from 'nanoid';
-import styles from './Project.module.css';
+import style from './Project.module.css';
 
 const Project = ({ banner, name, description, tags, source, demo }) => {
   return (
     <div>
-      <img src={banner} alt={name + ' banner'} className={styles.banner} />
+      <img className={style.banner} src={banner} alt={name + ' banner'} />
       <div>{name}</div>
       <div>{description}</div>
       {tags.map((tag) => (
