@@ -2,6 +2,7 @@ import { useState } from 'react';
 
 import { data } from './data.js';
 
+import { Header } from './components/Header/Header.js';
 import { Project } from './components/Project/Project';
 import { Search } from './components/Search/Search.js';
 
@@ -10,6 +11,7 @@ const App = () => {
 
   return (
     <div>
+      <Header />
       <Search value={search} setValue={setSearch} />
       {data
         .filter((project) => {
