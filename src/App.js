@@ -21,17 +21,15 @@ const App = () => {
             return filter.toLowerCase().includes(search.toLowerCase());
           })
           .map((project) => (
-            <div>
-              <Project
-                key={project.id}
-                banner={project.banner}
-                name={project.name}
-                description={project.description}
-                tags={project.tags}
-                source={project.source}
-                demo={project.demo}
-              />
-            </div>
+            <Project
+              key={project.id}
+              banner={project.banner}
+              name={project.name}
+              description={project.description}
+              tags={project.tags}
+              source={project.source}
+              demo={project.demo}
+            />
           ))}
       </div>
     </div>

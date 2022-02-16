@@ -1,4 +1,13 @@
 .banner {
   max-width: 100%;
   max-height: 100%;
+
+  border-radius: 1em;
+  border: 0.125em solid whitesmoke;
+
+  /* transition: box-shadow 0.25s; */
 }
+
+/* .banner:hover {
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+} */
