@@ -1,21 +1,25 @@
+import style from './Header.module.css';
+
+const Link = ({ link, text }) => {
+  return (
+    <a
+      href={link}
+      target="_blank"
+      rel="noopener noreferrer"
+      className={style.link}
+    >
+      <span>{text}</span>
+    </a>
+  );
+};
+
 const Header = () => {
   return (
-    <div>
-      <div>Hi, I'm Francis!</div>
-      <div>
-        <a href="https://www.linkedin.com/in/francis-langit">LinkedIn</a>
-      </div>
-      <div>
-        <a href="https://github.com/FrancisLangit/">GitHub</a>
-      </div>
-      <div>
-        <a href="https://docs.google.com/document/d/10_670hzfWdriOqLbOvX2ZBGpbhxrJlTf6ilwj6Uc74k/export?format=pdf">
-          Resume
-        </a>
-      </div>
-      <div>
-        <a href="mailto:francis.villanueva.langit@gmail.com">Email</a>
-      </div>
+    <div className={style.container}>
+      <div className={style.header}>Francis Langit</div>
+      <Link link="https://www.linkedin.com/in/francis-langit" text="LinkedIn" />
+      <Link link="https://github.com/FrancisLangit/" text="GitHub" />
+      <Link link="mailto:francis.villanueva.langit@gmail.com" text="Email" />
     </div>
   );
 };
