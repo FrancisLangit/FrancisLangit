@@ -144,7 +144,7 @@ const data = [
     id: nanoid(),
     name: 'google homepage',
     banner:
-      'https://repository-images.githubusercontent.com/343060138/71db9f80-7c3d-11eb-8490-02161a52fb71',
+      'https://repository-images.githubusercontent.com/343060138/3e2259ba-36d8-46fa-b6b4-f23c093239f0',
     link: 'https://francislangit.github.io/google-homepage/',
     tags: ['HTML', 'CSS', 'Web Development'],
   },
